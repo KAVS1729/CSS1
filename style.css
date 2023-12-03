@@ -1,0 +1,68 @@
+.p1{
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    background-image: url(https://ik.imagekit.io/Kavs17/mern/todolistbg.jpg?updatedAt=1701357043996);
+    height:45em;
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size:465px ;
+    
+    
+
+ 
+}
+.mainhead{
+    font-weight: 500;
+    font-size:60px;
+    text-align: center;
+
+}
+.l1{
+   font-size:18.5px;
+   margin-left:30em;
+   font-weight:lighter;
+   line-height:0;
+}
+.l3{
+    font-size:18px;
+    margin-left:40em;
+    font-weight:lighter;
+    line-height:0;
+}
+.l2{
+   font-size:1.6em;
+   margin-left:20.6em;
+   font-weight: bolder;
+   margin-top: 2.3em;
+   
+}
+.l4{
+    color:white;
+    margin-left:27.5em;
+    font-size:19.2px;
+    font-weight:lighter;
+}
+.l5{
+    background-color: orange;
+    margin-left:43em;
+    width:7.5em;
+    height:3em;
+    font-size:1em;
+    margin-top:1em;
+    color: white;
+    font-weight: bolder;
+    
+}
+.l6{
+    text-align:center;
+    text-decoration: underline;
+    color: whitesmoke;
+    font-weight: lighter;
+}
+
+ 
+    
+     
+
+     
+
